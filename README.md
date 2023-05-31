@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 ### The website Tech-Web.png has been converted to a png format.
-
+ 
 ### `npm start`
 
 The react js and responsive design CSS framework Bootstrap are used in the company website design.
