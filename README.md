@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-# The website Tech-Web.png has been converted to a png format.[https://github.com/Cubarhande/reactlivewebsite/blob/main/Tech-Web.png]
+# The website Tech-Web.png has been converted to a png format.
  
 ### `npm start`
 
